@@ -1,3 +1,4 @@
+![Header](./header-image.png)
 ### Hi there 👋
 
 <!--
